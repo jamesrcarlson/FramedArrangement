@@ -4,9 +4,7 @@ FramedArrangement
 The seventh project for iOS pre-course using views and frames.
 
 ###Resources:
-- Read and do the projects in Chapter 1-2 of the Big Nerd Ranch iOS Programming book. This should have been sent to you.
-- Read the section on Properties in Chapter 3.
-- Read this excerpt from your BNR book:
+- Read this excerpt from the Big Nerd Ranch iOS Development book:
 ```
 The UIView subclass template has provided two method stubs for you. The first is initWithFrame:, the designated initializer for UIView. This method takes one argument, a CGRect, that will become the view’s frame, a property on UIView.
 
