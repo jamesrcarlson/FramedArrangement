@@ -10,6 +10,9 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+@property (nonatomic) CGRect frame;
+
+
 @property (strong, nonatomic) UIWindow *window;
 
 
